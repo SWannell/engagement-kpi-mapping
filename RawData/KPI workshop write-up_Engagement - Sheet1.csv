@@ -1,48 +1,52 @@
 Objective,Driver,Metric,Slices,Traffic light colour
-Happiness,Being informed / learning,Quiz success,,Tracked now; could do but not
-Happiness,Ease of use / smooth,Happy path completion %,,
-Happiness,Ease of use / smooth,Conversion % (negative),,
-Happiness,Ease of use / smooth,Funnels,,
-Happiness,Ease of use / smooth,Survey responses,,
-Happiness,Ease of use / smooth,Completion time,,
-Happiness,Leave feedback,Mood clicks (happy face),,
-Happiness,Leave feedback,"""Did you find this page useful?""",,
-Happiness,Leave feedback,Complaint # / % (negative),,
-Happiness,Recommendation,Survey responses / NPS,,
-Happiness,Delight,Sentiment_social delight terms,,
-Happiness,Delight,Survey responses: feeling good/useful,,
-Engagement,Empathy,Sentiment_social empathy terms,,
-Engagement,Trust,Social listening for sentiment,,
-Engagement,Popularity,Shares #,,
-Engagement,Popularity,Likes #,,
-Engagement,Popularity,Comments #,,
-Engagement,Popularity,Stories with visits over X,,
-Engagement,Relevance,Video plays,,
-Engagement,Relevance,Scroll,,
-Engagement,Relevance,Time spent reading over threshold,,
-Engagement,Relevance,Time on page,,
-Engagement,Leave feedback,Sentiment,,
-Engagement,Leave feedback,Feedback # / %,,
-Engagement,Stickiness,Click # / % on related content,,
-Engagement,Stickiness,Pages per session,,
-Engagement,Stickiness,Clicks on CTA,,
-Engagement,Stickiness,Time on site,,
-Engagement,Stickiness,Bounce rate (negative),,
-Engagement,Stickiness,Rich content engagement (e.g. quizzes),,
-Adoption,Cross-promotion,# volunteer sign-ups from other sources,,
-Adoption,Shareable content,# shares from page,,
-Adoption,Shareable content,Non-owned organic social traffic,,
-Adoption,Micro-conversions,Email journey sign-ups,,
-Adoption,Get new users,New user # / %,,
-Adoption,Get new users,Page with entrances over cut-off,,
-Adoption,Get new users,Users migrate from old sites,,
-Retention,Returning,Returning user # / %,,
-Retention,Returning,Page revisited rate,,
-Retention,Returning,Email opt-in,,
-Retention,Frequency,Sessions / user,,
-Retention,Frequency,Session gap,,
-Retention,Recency,Users with sessions in last X days,,
-Task success,Effectiveness,Intent # / %,,
-Task success,Effectiveness,Conversion # / %,,
-Task success,Effectiveness,Funnel progress,,
-Task success,Efficiency,Task completion time,,
+Happiness,Being informed / learning,Quiz success,,Data available
+Happiness,Ease of use / smooth,Happy path completion %,,Data available
+Happiness,Ease of use / smooth,Conversion % (negative),,Data available
+Happiness,Ease of use / smooth,Funnels,,Data available
+Happiness,Ease of use / smooth,Survey responses,,Can do
+Happiness,Ease of use / smooth,Completion time,,Needs work
+Happiness,Leave feedback,Mood clicks (happy face),,Needs work
+Happiness,Leave feedback,"""Did you find this page useful?""",,Data available
+Happiness,Leave feedback,Complaint # / % (negative),,Needs work
+Happiness,Recommendation,Survey responses / NPS,,Can do
+Happiness,Delight,Sentiment,,Needs work
+Happiness,Delight,Survey responses: feeling good/useful,,Can do
+Engagement,Empathy,Social listening for sentiment,,Needs work
+Engagement,Trust,Social listening for sentiment,,Needs work
+Engagement,Popularity,Shares #,,Can do
+Engagement,Popularity,Likes #,,Can do
+Engagement,Popularity,Comments #,,Can do
+Engagement,Popularity,Stories with visits over X,,Data available
+Engagement,Relevance,Video plays,,Data available
+Engagement,Relevance,Scroll,,Data available
+Engagement,Relevance,Time spent reading over threshold,,Needs work
+Engagement,Relevance,Time on page,,Needs work
+Engagement,Leave feedback,Sentiment,,Needs work
+Engagement,Leave feedback,Feedback # / %,,Needs work
+Engagement,Stickiness,Click # / % on related content,,Data available
+Engagement,Stickiness,Pages per session,,Data available
+Engagement,Stickiness,Clicks on CTA,,Data available
+Engagement,Stickiness,Time on site,,Needs work
+Engagement,Stickiness,Bounce rate (negative),,Data available
+Engagement,Stickiness,Rich content engagement (e.g. quizzes),,Data available
+Adoption,Cross-promotion,# sign-ups from other sources,,Can do
+Adoption,Shareable content,# shares from page,,Can do
+Adoption,Shareable content,Non-owned organic social traffic,,Data available
+Adoption,Micro-conversions,Email journey sign-ups,,Can do
+Adoption,Get new users,New user # / %,,Data available
+Adoption,Get new users,Page with entrances over cut-off,,Data available
+Adoption,Get new users,Users migrate from old sites,,Data available
+Adoption,Get new users,New user # / %,"By category (e.g. user/donor, new schools/educators)",Data available
+Adoption,Get new users,New user # / %,"By channel (e.g. organic search, referrals)",Data available
+Retention,Returning,Returning user # / %,"By category (e.g. user/donor, new schools/educators)",Data available
+Retention,Returning,Returning user # / %,By path (multi-step visits),Data available
+Retention,Returning,Returning user # / %,"By channel (e.g. organic search, referrals)",Data available
+Retention,Returning,Page revisited rate,,Data available
+Retention,Returning,Email opt-in,,Data available
+Retention,Frequency,Sessions / user,,Data available
+Retention,Frequency,Session gap,,Data available
+Retention,Recency,Users with sessions in last X days,,Data available
+Task success,Effectiveness,Intent # / %,,Data available
+Task success,Effectiveness,Conversion # / %,,Data available
+Task success,Effectiveness,Funnel progress,,Data available
+Task success,Efficiency,Task completion time,,Needs work

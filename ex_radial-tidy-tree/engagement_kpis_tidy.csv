@@ -1,74 +1,74 @@
-id,value
+id,colour
 engagement KPIs,
 engagement KPIs.Adoption,
 engagement KPIs.Adoption.Cross-promotion,
-engagement KPIs.Adoption.Cross-promotion.# volunteer sign-ups from other sources,1
+engagement KPIs.Adoption.Cross-promotion.# sign-ups from other sources,Can do
 engagement KPIs.Adoption.Get new users,
-engagement KPIs.Adoption.Get new users.New user # / %,1
-engagement KPIs.Adoption.Get new users.Page with entrances over cut-off,1
-engagement KPIs.Adoption.Get new users.Users migrate from old sites,1
+engagement KPIs.Adoption.Get new users.New user # / %,Data available
+engagement KPIs.Adoption.Get new users.Page with entrances over cut-off,Data available
+engagement KPIs.Adoption.Get new users.Users migrate from old sites,Data available
 engagement KPIs.Adoption.Micro-conversions,
-engagement KPIs.Adoption.Micro-conversions.Email journey sign-ups,1
+engagement KPIs.Adoption.Micro-conversions.Email journey sign-ups,Can do
 engagement KPIs.Adoption.Shareable content,
-engagement KPIs.Adoption.Shareable content.# shares from page,1
-engagement KPIs.Adoption.Shareable content.Non-owned organic social traffic,1
+engagement KPIs.Adoption.Shareable content.# shares from page,Can do
+engagement KPIs.Adoption.Shareable content.Non-owned organic social traffic,Data available
 engagement KPIs.Engagement,
 engagement KPIs.Engagement.Empathy,
-engagement KPIs.Engagement.Empathy.Social listening for sentiment,1
+engagement KPIs.Engagement.Empathy.Social listening for sentiment,Needs work
 engagement KPIs.Engagement.Leave feedback,
-engagement KPIs.Engagement.Leave feedback.Feedback # / %,1
-engagement KPIs.Engagement.Leave feedback.Sentiment,1
+engagement KPIs.Engagement.Leave feedback.Feedback # / %,Needs work
+engagement KPIs.Engagement.Leave feedback.Sentiment,Needs work
 engagement KPIs.Engagement.Popularity,
-engagement KPIs.Engagement.Popularity.Comments #,1
-engagement KPIs.Engagement.Popularity.Likes #,1
-engagement KPIs.Engagement.Popularity.Shares #,1
-engagement KPIs.Engagement.Popularity.Stories with visits over X,1
+engagement KPIs.Engagement.Popularity.Comments #,Can do
+engagement KPIs.Engagement.Popularity.Likes #,Can do
+engagement KPIs.Engagement.Popularity.Shares #,Can do
+engagement KPIs.Engagement.Popularity.Stories with visits over X,Data available
 engagement KPIs.Engagement.Relevance,
-engagement KPIs.Engagement.Relevance.Scroll,1
-engagement KPIs.Engagement.Relevance.Time on page,1
-engagement KPIs.Engagement.Relevance.Time spent reading over threshold,1
-engagement KPIs.Engagement.Relevance.Video plays,1
+engagement KPIs.Engagement.Relevance.Scroll,Data available
+engagement KPIs.Engagement.Relevance.Time on page,Needs work
+engagement KPIs.Engagement.Relevance.Time spent reading over threshold,Needs work
+engagement KPIs.Engagement.Relevance.Video plays,Data available
 engagement KPIs.Engagement.Stickiness,
-engagement KPIs.Engagement.Stickiness.Bounce rate (negative),1
-engagement KPIs.Engagement.Stickiness.Click # / % on related content,1
-engagement KPIs.Engagement.Stickiness.Clicks on CTA,1
-engagement KPIs.Engagement.Stickiness.Pages per session,1
-engagement KPIs.Engagement.Stickiness.Rich content engagement (eg quizzes),1
-engagement KPIs.Engagement.Stickiness.Time on site,1
+engagement KPIs.Engagement.Stickiness.Bounce rate (negative),Data available
+engagement KPIs.Engagement.Stickiness.Click # / % on related content,Data available
+engagement KPIs.Engagement.Stickiness.Clicks on CTA,Data available
+engagement KPIs.Engagement.Stickiness.Pages per session,Data available
+engagement KPIs.Engagement.Stickiness.Rich content engagement (eg quizzes),Data available
+engagement KPIs.Engagement.Stickiness.Time on site,Needs work
 engagement KPIs.Engagement.Trust,
-engagement KPIs.Engagement.Trust.Social listening for sentiment,1
+engagement KPIs.Engagement.Trust.Social listening for sentiment,Needs work
 engagement KPIs.Happiness,
 engagement KPIs.Happiness.Being informed / learning,
-engagement KPIs.Happiness.Being informed / learning.Quiz success,1
+engagement KPIs.Happiness.Being informed / learning.Quiz success,Data available
 engagement KPIs.Happiness.Delight,
-engagement KPIs.Happiness.Delight.Sentiment,1
-engagement KPIs.Happiness.Delight.Survey responses: feeling good/useful,1
+engagement KPIs.Happiness.Delight.Sentiment,Needs work
+engagement KPIs.Happiness.Delight.Survey responses: feeling good/useful,Can do
 engagement KPIs.Happiness.Ease of use / smooth,
-engagement KPIs.Happiness.Ease of use / smooth.Completion time,1
-engagement KPIs.Happiness.Ease of use / smooth.Conversion % (negative),1
-engagement KPIs.Happiness.Ease of use / smooth.Funnels,1
-engagement KPIs.Happiness.Ease of use / smooth.Happy path completion %,1
-engagement KPIs.Happiness.Ease of use / smooth.Survey responses,1
+engagement KPIs.Happiness.Ease of use / smooth.Completion time,Needs work
+engagement KPIs.Happiness.Ease of use / smooth.Conversion % (negative),Data available
+engagement KPIs.Happiness.Ease of use / smooth.Funnels,Data available
+engagement KPIs.Happiness.Ease of use / smooth.Happy path completion %,Data available
+engagement KPIs.Happiness.Ease of use / smooth.Survey responses,Can do
 engagement KPIs.Happiness.Leave feedback,
-"engagement KPIs.Happiness.Leave feedback.""Did you find this page useful?""",1
-engagement KPIs.Happiness.Leave feedback.Complaint # / % (negative),1
-engagement KPIs.Happiness.Leave feedback.Mood clicks (happy face),1
+"engagement KPIs.Happiness.Leave feedback.""Did you find this page useful?""",Data available
+engagement KPIs.Happiness.Leave feedback.Complaint # / % (negative),Needs work
+engagement KPIs.Happiness.Leave feedback.Mood clicks (happy face),Needs work
 engagement KPIs.Happiness.Recommendation,
-engagement KPIs.Happiness.Recommendation.Survey responses / NPS,1
+engagement KPIs.Happiness.Recommendation.Survey responses / NPS,Can do
 engagement KPIs.Retention,
 engagement KPIs.Retention.Frequency,
-engagement KPIs.Retention.Frequency.Session gap,1
-engagement KPIs.Retention.Frequency.Sessions / user,1
+engagement KPIs.Retention.Frequency.Session gap,Data available
+engagement KPIs.Retention.Frequency.Sessions / user,Data available
 engagement KPIs.Retention.Recency,
-engagement KPIs.Retention.Recency.Users with sessions in last X days,1
+engagement KPIs.Retention.Recency.Users with sessions in last X days,Data available
 engagement KPIs.Retention.Returning,
-engagement KPIs.Retention.Returning.Email opt-in,1
-engagement KPIs.Retention.Returning.Page revisited rate,1
-engagement KPIs.Retention.Returning.Returning user # / %,1
+engagement KPIs.Retention.Returning.Email opt-in,Data available
+engagement KPIs.Retention.Returning.Page revisited rate,Data available
+engagement KPIs.Retention.Returning.Returning user # / %,Data available
 engagement KPIs.Task success,
 engagement KPIs.Task success.Effectiveness,
-engagement KPIs.Task success.Effectiveness.Conversion # / %,1
-engagement KPIs.Task success.Effectiveness.Funnel progress,1
-engagement KPIs.Task success.Effectiveness.Intent # / %,1
+engagement KPIs.Task success.Effectiveness.Conversion # / %,Data available
+engagement KPIs.Task success.Effectiveness.Funnel progress,Data available
+engagement KPIs.Task success.Effectiveness.Intent # / %,Data available
 engagement KPIs.Task success.Efficiency,
-engagement KPIs.Task success.Efficiency.Task completion time,1
+engagement KPIs.Task success.Efficiency.Task completion time,Needs work
