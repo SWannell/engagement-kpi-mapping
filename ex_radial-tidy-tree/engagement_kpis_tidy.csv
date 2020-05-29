@@ -14,7 +14,7 @@ engagement KPIs.Adoption.Shareable content.# shares from page,1
 engagement KPIs.Adoption.Shareable content.Non-owned organic social traffic,1
 engagement KPIs.Engagement,
 engagement KPIs.Engagement.Empathy,
-engagement KPIs.Engagement.Empathy.Sentiment_social empathy terms,1
+engagement KPIs.Engagement.Empathy.Social listening for sentiment,1
 engagement KPIs.Engagement.Leave feedback,
 engagement KPIs.Engagement.Leave feedback.Feedback # / %,1
 engagement KPIs.Engagement.Leave feedback.Sentiment,1
@@ -41,7 +41,7 @@ engagement KPIs.Happiness,
 engagement KPIs.Happiness.Being informed / learning,
 engagement KPIs.Happiness.Being informed / learning.Quiz success,1
 engagement KPIs.Happiness.Delight,
-engagement KPIs.Happiness.Delight.Sentiment_social delight terms,1
+engagement KPIs.Happiness.Delight.Sentiment,1
 engagement KPIs.Happiness.Delight.Survey responses: feeling good/useful,1
 engagement KPIs.Happiness.Ease of use / smooth,
 engagement KPIs.Happiness.Ease of use / smooth.Completion time,1
